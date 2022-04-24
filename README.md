@@ -1,4 +1,5 @@
 # tasks-manager
+## Test project for learining mongo
 
 ## Project setup
 ```
